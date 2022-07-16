@@ -1,5 +1,5 @@
 <h1>Single Template</h1><hr><br>
 
-{{ range .Site.Data.jaco}}
-    {{ partial "influencer.html" . }}
+{{ range .Site.Data.businesses}}
+    {{.name}} <br>
 {{ end }}
