@@ -60,28 +60,28 @@
       "type": "Enterainment",
       "located": "AZ",
       "familyOwned": "No"
-      "email": "press@sokoglam.com",
-      "website": "http://www.citybistrohobokennj.com/"
+      "email": "info@westwinddi.com",
+      "website": "https://www.westwinddi.com/"
     },
-    "FL": {
-      "name": "City Bistro",
-      "type": "Food and Beverage",
-      "located": "NJ",
+    "Manti Mountain ATV Run": {
+      "name": "Manti Mountain ATV Run",
+      "type": "Sports and Recreation",
+      "located": "UT",
       "familyOwned": "No"
-      "email": " ",
-      "website": "http://www.citybistrohobokennj.com/"
+      "email": "admin@manticity.com",
+      "website": "https://www.mantiatvrun.com/atvrun"
     },
-    "GA": {
-      "name": "City Bistro",
-      "type": "Food and Beverage",
-      "located": "NJ",
+    "The Line by K": {
+      "name": "The Line by K",
+      "type": "Fashion",
+      "located": "CA",
       "familyOwned": "No"
       "email": " ",
       "website": "http://www.citybistrohobokennj.com/"
     },
     "HI": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Fashion",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -97,7 +97,7 @@
     },
     "IL": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Landscaping",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -105,7 +105,7 @@
     },
     "IN": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Landscaping",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -113,7 +113,7 @@
     },
     "IA": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Beauty",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -121,7 +121,7 @@
     },
     "KS": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Arts and Entertainment",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -129,7 +129,7 @@
     },
     "KY": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Arts and Entertainment",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -137,7 +137,7 @@
     },
     "LA": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Community and Education",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
@@ -145,7 +145,7 @@
     },
     "ME": {
       "name": "City Bistro",
-      "type": "Food and Beverage",
+      "type": "Real Estate",
       "located": "NJ",
       "familyOwned": "No"
       "email": " ",
