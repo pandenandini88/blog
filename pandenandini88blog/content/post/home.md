@@ -6,3 +6,8 @@ draft: false
 
 # This is my post
 
+<ul>
+    {{ range .discography }}
+      <li>{{ . }}</li>
+    {{ end }}
+    </ul>
