@@ -1,0 +1,4 @@
+baseURL = 'https://pandenandini88.github.io/'
+languageCode = 'en-us'
+title = 'This Blog'
+theme='contrast-hugo'

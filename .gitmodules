@@ -1,0 +1,4 @@
+[submodule "pandenandini88blog/public"]
+	path = pandenandini88blog/public
+	url = https://github.com/pandenandini88/pandenandini88.github.io.git
+	branch = main
